@@ -1,10 +1,10 @@
-import { useState } from 'react'
 import './App.css'
+import MovieSurvey from './components/MovieSurvey'
 
 function App() {
   return (
     <>
-      
+      <MovieSurvey />
     </>
   )
 }
